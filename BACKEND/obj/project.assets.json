@@ -4008,31 +4008,21 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
-      "projectUniqueName": "C:\\Fax\\Kriptografija\\Caesar-s-cipher\\BACKEND\\WebTemplate.csproj",
+      "projectUniqueName": "C:\\Fax\\Kriptografija\\Caesar-s-cipher\\backend\\WebTemplate.csproj",
       "projectName": "WebTemplate",
-      "projectPath": "C:\\Fax\\Kriptografija\\Caesar-s-cipher\\BACKEND\\WebTemplate.csproj",
+      "projectPath": "C:\\Fax\\Kriptografija\\Caesar-s-cipher\\backend\\WebTemplate.csproj",
       "packagesPath": "C:\\Users\\Luka Djordjevic\\.nuget\\packages\\",
-      "outputPath": "C:\\Fax\\Kriptografija\\Caesar-s-cipher\\BACKEND\\obj\\",
+      "outputPath": "C:\\Fax\\Kriptografija\\Caesar-s-cipher\\backend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Luka Djordjevic\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-=======
-      "projectUniqueName": "D:\\AA-Master\\Kriptografija\\Caesar-s-cipher\\BACKEND\\WebTemplate.csproj",
-      "projectName": "WebTemplate",
-      "projectPath": "D:\\AA-Master\\Kriptografija\\Caesar-s-cipher\\BACKEND\\WebTemplate.csproj",
-      "packagesPath": "C:\\Users\\Katarina\\.nuget\\packages\\",
-      "outputPath": "D:\\AA-Master\\Kriptografija\\Caesar-s-cipher\\BACKEND\\obj\\",
-      "projectStyle": "PackageReference",
-      "configFilePaths": [
-        "C:\\Users\\Katarina\\AppData\\Roaming\\NuGet\\NuGet.Config"
->>>>>>> 420ed077b589e8ab53b9e28413e289953f2d9b27
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

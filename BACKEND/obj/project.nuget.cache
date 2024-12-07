@@ -1,14 +1,8 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "j9pCpMXYq89wCasuWLFg1Tv1kEuL/DjB9EJVFUP16rhoc9gduEhKoqhNh3EfaIvGmvozYFs8hlcp+rwG4vfFZw==",
   "success": true,
   "projectFilePath": "C:\\Fax\\Kriptografija\\Caesar-s-cipher\\backend\\WebTemplate.csproj",
-=======
-  "dgSpecHash": "mTrpQWRQT9e9JWDQDr8fR3gLd1TiBL2/LMGzmWS8OEBy9XI2M6QDF+/DERsqN/l7h2yjaEqiHayqglHFneiSbA==",
-  "success": true,
-  "projectFilePath": "D:\\AA-Master\\Kriptografija\\Caesar-s-cipher\\BACKEND\\WebTemplate.csproj",
->>>>>>> 420ed077b589e8ab53b9e28413e289953f2d9b27
   "expectedPackageFiles": [
     "C:\\Users\\Luka Djordjevic\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Luka Djordjevic\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
