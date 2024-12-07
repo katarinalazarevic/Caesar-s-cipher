@@ -18,8 +18,8 @@
 [Dd]ist-*.*.*
 
 ## .NET Core and .NET Framework binaries
-bin/
-obj/
+/bin
+/obj
 
 ## ASP.NET Scaffolding
 Scaffolding/
