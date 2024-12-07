@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\E-PETI semestar\\Web\\WEBVezbadotnet\\BACKEND\\WebTemplate.csproj": {}
+    "D:\\AA-Master\\Kriptografija\\Caesar-s-cipher\\BACKEND\\WebTemplate.csproj": {}
   },
   "projects": {
-    "D:\\E-PETI semestar\\Web\\WEBVezbadotnet\\BACKEND\\WebTemplate.csproj": {
+    "D:\\AA-Master\\Kriptografija\\Caesar-s-cipher\\BACKEND\\WebTemplate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\E-PETI semestar\\Web\\WEBVezbadotnet\\BACKEND\\WebTemplate.csproj",
+        "projectUniqueName": "D:\\AA-Master\\Kriptografija\\Caesar-s-cipher\\BACKEND\\WebTemplate.csproj",
         "projectName": "WebTemplate",
-        "projectPath": "D:\\E-PETI semestar\\Web\\WEBVezbadotnet\\BACKEND\\WebTemplate.csproj",
+        "projectPath": "D:\\AA-Master\\Kriptografija\\Caesar-s-cipher\\BACKEND\\WebTemplate.csproj",
         "packagesPath": "C:\\Users\\Katarina\\.nuget\\packages\\",
-        "outputPath": "D:\\E-PETI semestar\\Web\\WEBVezbadotnet\\BACKEND\\obj\\",
+        "outputPath": "D:\\AA-Master\\Kriptografija\\Caesar-s-cipher\\BACKEND\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Katarina\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Katarina\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qMcjSi5Ji9K0n6bNXgawuYWeEPVS9JhEbT8Y6R320cqfNOdJXMbEQCyMpOceSH4ATSYu+QOIt+47tYPk+bhgeA==",
+  "dgSpecHash": "mTrpQWRQT9e9JWDQDr8fR3gLd1TiBL2/LMGzmWS8OEBy9XI2M6QDF+/DERsqN/l7h2yjaEqiHayqglHFneiSbA==",
   "success": true,
-  "projectFilePath": "D:\\E-PETI semestar\\Web\\WEBVezbadotnet\\BACKEND\\WebTemplate.csproj",
+  "projectFilePath": "D:\\AA-Master\\Kriptografija\\Caesar-s-cipher\\BACKEND\\WebTemplate.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Katarina\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Katarina\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
