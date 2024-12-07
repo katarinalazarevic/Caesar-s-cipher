@@ -4003,19 +4003,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Katarina\\.nuget\\packages\\": {}
+    "C:\\Users\\Luka Djordjevic\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\E-PETI semestar\\Web\\WEBVezbadotnet\\BACKEND\\WebTemplate.csproj",
+      "projectUniqueName": "C:\\Fax\\Kriptografija\\Caesar-s-cipher\\BACKEND\\WebTemplate.csproj",
       "projectName": "WebTemplate",
-      "projectPath": "D:\\E-PETI semestar\\Web\\WEBVezbadotnet\\BACKEND\\WebTemplate.csproj",
-      "packagesPath": "C:\\Users\\Katarina\\.nuget\\packages\\",
-      "outputPath": "D:\\E-PETI semestar\\Web\\WEBVezbadotnet\\BACKEND\\obj\\",
+      "projectPath": "C:\\Fax\\Kriptografija\\Caesar-s-cipher\\BACKEND\\WebTemplate.csproj",
+      "packagesPath": "C:\\Users\\Luka Djordjevic\\.nuget\\packages\\",
+      "outputPath": "C:\\Fax\\Kriptografija\\Caesar-s-cipher\\BACKEND\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Katarina\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Luka Djordjevic\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4035,6 +4035,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -4079,6 +4084,24 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[7.0.17, 7.0.17]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[7.0.17, 7.0.17]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[7.0.17, 7.0.17]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[7.0.17, 7.0.17]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -4087,7 +4110,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
